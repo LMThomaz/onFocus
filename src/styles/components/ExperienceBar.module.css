@@ -20,6 +20,8 @@
   height: inherit;
   border-radius: inherit;
   background: var(--green);
+
+  transition: width 400ms ease-in-out;
 }
 
 span.currentExperience {
