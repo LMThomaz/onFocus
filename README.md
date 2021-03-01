@@ -55,7 +55,7 @@ O projeto utiliza as seguintes ferramentas:
 Baixe o [.zip][url-zip] do projeto ou faça o clone executando:
 
 ```bash
-$ git clone https://github.com/LMThomaz/wiserLogin
+$ git clone https://github.com/LMThomaz/pomoFocus
 ```
 
 ### :steam_locomotive: Instalar dependências
